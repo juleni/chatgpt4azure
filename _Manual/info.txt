@@ -1,0 +1,5 @@
+Beginners Guide to GPT4 API & ChatGPT 3.5 Turbo API Tutorial
+https://www.youtube.com/watch?v=LX_DXLlaymg&ab_channel=AdrianTwarog   (21:31)
+
+npm init -y
+npm i express openai body-parser cors
